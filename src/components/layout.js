@@ -8,6 +8,11 @@ function Layout({ children }) {
   return (
     <div className="bg-gray-900 flex flex-col min-h-screen text-white">
       <Helmet>
+        <script
+          data-ad-client="ca-pub-5238815526449068"
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+        ></script>
         <link
           rel="icon"
           href="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/technologist-light-skin-tone_1f9d1-1f3fb-200d-1f4bb.png"
